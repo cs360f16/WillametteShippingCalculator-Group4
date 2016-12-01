@@ -29,3 +29,6 @@ class TestShippingLogic(unittest.TestCase):
         a multithreaded application
         """
         pass  # nothing to do
+
+    def test_getName(self):
+        self.assertEqual(self.theShipping.getName(), 'Standard')
