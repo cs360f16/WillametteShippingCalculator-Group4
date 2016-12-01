@@ -1,0 +1,12 @@
+language: python
+python:
+- "3.3"
+- "3.4"
+
+# testo
+script:
+- python -m unittest test_SaleItemUnitTest -v
+
+# E M A I L S T O P P O
+notifications:
+  email: false
