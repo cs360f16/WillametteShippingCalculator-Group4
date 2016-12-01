@@ -1,5 +1,8 @@
 WillametteShippingCalculator
 ============================
+
+[![Build Status](https://travis-ci.org/cs360f16/WillametteShippingCalculator-Group4.svg)](https://travis-ci.org/cs360f16/WillametteShippingCalculator-Group4)
+
 * Items (Cost, Weight, Title, fs)
 * Standard Shipping Cost Calculation
   * .1-1 pounds $5
