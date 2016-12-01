@@ -6,6 +6,7 @@ python:
 # testo
 script:
 - python -m unittest test_SaleItemUnitTest -v
+- python -m unittest test_ShippingLogicUnitTest -v
 
 # E M A I L S T O P P O
 notifications:
